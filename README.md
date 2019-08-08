@@ -1,2 +1,2 @@
-# physiologie-anatomique
+# physiological-anatomy
 A medical encyclopedia attempt
